@@ -213,3 +213,21 @@ span {
 .health p:nth-of-type(2) {
   font-size: 2.5rem;
 }
+
+/* !article health */
+
+.domestic {
+  padding-left: 28rem;
+  padding-right: 29rem;
+  padding-top: 24.5rem;
+  padding-bottom: 13rem;
+}
+
+.domestic p {
+  color: #7eb8e1;
+  font-family: Santio;
+  font-size: 35.2px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 49.2px; /* 139.773% */
+}
