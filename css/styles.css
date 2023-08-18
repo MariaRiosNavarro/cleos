@@ -237,9 +237,7 @@ span {
 /* section only foto */
 
 .kids {
-  background: url("../assets/img/see.png") no-repeat center;
-  background-size: contain;
-  background-color: white;
+  height: 62rem;
 }
 
 /* section donate */
