@@ -231,3 +231,14 @@ span {
   font-weight: 700;
   line-height: 49.2px; /* 139.773% */
 }
+
+/* # section no paralax  */
+
+/* section only foto */
+
+.kids {
+  background: url("../assets/img/see.png") no-repeat center;
+  background-size: contain;
+}
+
+/* section donate */
