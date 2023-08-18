@@ -299,8 +299,8 @@ footer a {
 
 /* Deactivate parallax for tablets and mobile devices */
 
-@media (max-width: 768px) {
+/* @media (max-width: 768px) {
   .paralax {
     background-attachment: scroll;
   }
-}
+} */
