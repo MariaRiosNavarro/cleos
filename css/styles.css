@@ -239,6 +239,7 @@ span {
 .kids {
   background: url("../assets/img/see.png") no-repeat center;
   background-size: contain;
+  background-color: white;
 }
 
 /* section donate */
@@ -268,4 +269,30 @@ span {
 .donate button:hover {
   box-shadow: 0.5rem 0.5rem 0 white;
   background-color: transparent;
+}
+
+/* footer */
+
+footer {
+  background-color: black;
+  padding-bottom: 0.3rem;
+}
+footer h6 {
+  color: #fff;
+  text-align: center;
+  font-family: Roboto, Arial, Helvetica, sans-serif;
+  font-size: 0.8rem;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  text-align: center;
+}
+
+footer a {
+  color: #6bc1a3;
+  font-family: Inter;
+  font-size: 12.8px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
 }
