@@ -8,22 +8,22 @@
 
 @font-face {
   font-family: Inter;
-  src: url("/assets/fonts/Inter/Inter-VariableFont_slnt\,wght.ttf");
+  src: url("../assets/fonts/Inter/Inter-VariableFont_slnt\,wght.ttf");
 }
 
 @font-face {
   font-family: Roboto;
-  src: url("/assets/fonts/Roboto/Roboto-Regular.ttf");
+  src: url("../assets/fonts/Roboto/Roboto-Regular.ttf");
 }
 
 @font-face {
   font-family: Santio;
-  src: url("/assets/fonts/Santio/TTF/Santio\ regular.ttf");
+  src: url("../assets/fonts/Santio/TTF/Santio\ regular.ttf");
 }
 
 @font-face {
   font-family: Dafoe;
-  src: url("/assets/fonts/Mr_Dafoe/MrDafoe-Regular.ttf");
+  src: url("../assets/fonts/Mr_Dafoe/MrDafoe-Regular.ttf");
 }
 
 html {
