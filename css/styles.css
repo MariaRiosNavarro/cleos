@@ -242,3 +242,30 @@ span {
 }
 
 /* section donate */
+
+.donate {
+  background-color: black;
+  padding: 8rem 52rem 8rem 8rem;
+}
+
+.donate p {
+  color: #fff;
+  font-family: Inter, Arial, Helvetica, sans-serif;
+  font-size: 3rem;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+}
+
+.donate button {
+  margin-top: 2rem;
+  background-color: transparent;
+  color: white;
+  border: 1px solid #fff;
+  padding: 15.556px 25.821px 15.889px 25.556px;
+}
+
+.donate button:hover {
+  box-shadow: 0.5rem 0.5rem 0 white;
+  background-color: transparent;
+}
